@@ -1,1 +1,10 @@
+title: Pete is my name
+email: peter.vdpas@gmail.com
+description: >-
+  My own personal page on GitHub pages.
+baseurl: "" 
+url: "https://petervandepas.info" 
+twitter_username: jekyllrb
+github_username:  jekyll
+
 theme: jekyll-theme-tactile
